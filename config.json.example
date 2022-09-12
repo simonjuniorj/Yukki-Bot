@@ -1,0 +1,13 @@
+{
+    "token": "", //Bot token
+    "discord_owner_id": "", //Bot owner ID
+    "prefix": "=", //Default bot prefix
+    "maintenance": false, //Enables or disables maintenance mode
+   "Giveaway_Options": {
+    "giveawayManagerID": "", //Member ID whose managing giveaway's
+    "giveawayRoleID": "", //Role ID whose managing giveaway's
+    "giveawayMention": false, //Mention users after giveaway was ended
+    "showMention": false, //Enables or disables mention
+    "hostedBy": true //Shows who host giveaway
+    }
+}
